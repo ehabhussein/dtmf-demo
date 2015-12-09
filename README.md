@@ -15,3 +15,6 @@ and unzip it in the same folder
 I used my headset and ductaped it to the telephone and ran the script. feel free to mod it to your needs. this is just a demo script the real script is a bit private.
 
 
+$sudo apt-get install sox 
+
+this is needed to have play working.
